@@ -1,0 +1,22 @@
+{
+  "name": "jest-numbers",
+  "version": "0.0.0",
+  "description": "Ejemplos de number matchers con JEST",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidbanzer/jest-numbers.git"
+  },
+  "author": "David Banzer, Valeria Quiroga, Andres Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidbanzer/jest-numbers/issues"
+  },
+  "homepage": "https://github.com/davidbanzer/jest-numbers#readme",
+  "devDependencies": {
+    "jest": "^29.2.0"
+  }
+}
